@@ -3,6 +3,8 @@ Discord Streaming Bot with installation instructions
 
 How to use:
 
+
+
 Create a Discord Bot:https://discordpy.readthedocs.io/en/rewrite/discord.html
 
 Copy away the Bot "Token" and the Bot "ClientID" for safe keeping.
@@ -18,6 +20,8 @@ Install all npm prerequisites to that folder path below following this guide:
 If you don't already have Python 2.7 and Visual Studio, run npm install --global windows-build-tools
 npm install --save discord.js in your bot's project folder
 Good to go!
+
+
 
 Installing node.js:
 
@@ -47,7 +51,12 @@ If you want your bot to be able to play and receive audio in voice channels, als
 
 You may see UNMET PEER DEP errors, ignore them. You can ensure discord.js is installed by running npm list discord.js
 
-To run the RadioBot open CMD Prompt and navigate to the desktop folder again (cd Users\$username$\Desktop\DiscordBot /or RadioBot) and type: node bot.js
+** IMPORTANT ** Open the config.JSON file and put in your Bot "Token" you saved away. this will link the scripts in your Desktop folder to the Discord Bot you created earlier.
+
+
+To run the RadioBot:
+
+Open CMD Prompt and navigate to the desktop folder again (cd Users\$username$\Desktop\DiscordBot /or RadioBot) and type: node bot.js
 
 If all is well and the above was followed correctly, you should find you have a running Discord Radio bot.
 
