@@ -1,6 +1,8 @@
 # Discord-Radio-Bot-UK
 Discord Streaming Bot with installation instructions
 
+**EDIT - .bat file to run DiscordBot via node automatically**
+
 How to use:
 
 
