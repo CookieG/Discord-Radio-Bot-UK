@@ -1,31 +1,31 @@
 # Discord-Radio-Bot-UK
 Discord Streaming Bot with installation instructions
 
-# EDIT - .bat file to run DiscordBot via node automatically**
+###### EDIT - .bat file to run DiscordBot via node automatically**
 
-# Online Hosting - please see www.glitch.com and use guide: https://anidiots.guide/other-guides/hosting-on-glitch (saving you from leaving your PC on forever!)
+###### Online Hosting - please see www.glitch.com and use guide: https://anidiots.guide/other-guides/hosting-on-glitch (saving you from leaving your PC on forever!)
 
-# How to use:
+## How to use:
 
-# Create a Discord Bot:https://discordpy.readthedocs.io/en/rewrite/discord.html
+###### Create a Discord Bot:https://discordpy.readthedocs.io/en/rewrite/discord.html
 
-# Copy away the Bot "Token" and the Bot "ClientID" for safe keeping.
+###### Copy away the Bot "Token" and the Bot "ClientID" for safe keeping.
 
-# Create a new folder on the desktop and call it "DiscordBot" (or whatever you want it to be called "RadioBot"?). This is where we will run the Radio from, so make sure all the Git files/folders are copied to this location.
+###### Create a new folder on the desktop and call it "DiscordBot" (or whatever you want it to be called "RadioBot"?). This is where we will run the Radio from, so make sure all the Git files/folders are copied to this location.
 
-# Open CMD Prompt: navigate to the folder you just created (cd Users\$username$\Desktop\DiscordBot /or RadioBot)
+###### Open CMD Prompt: navigate to the folder you just created (cd Users\$username$\Desktop\DiscordBot /or RadioBot)
 
-# Install all npm prerequisites to that folder path following this guide below:
+Install all npm prerequisites to that folder path following this guide below:
 
 If you don't already have Python 2.7 and Visual Studio, run npm install --global windows-build-tools
 npm install --save discord.js in your bot's project folder
 Good to go!
 
-# Installing node.js:
+## Installing node.js:
 
 To install discord.js on Windows, you need to begin by installing node.js. If you already have node, please make sure your version is anything greater than or equal to 6.0.0 - you can check using node --version. If it isn't, install it here:
 
-Install node.js latest version: https://nodejs.org/en/
+latest version - https://nodejs.org/en/
 
 After installing node.js, make a folder for your bot, for example on the Desktop. Open this folder then SHIFT + RIGHT CLICK anywhere in the empty space, then click Open command window here.
 
@@ -38,7 +38,7 @@ Discord.js has some dependencies that require compiling with C++. If you have Vi
 
 Open a separate administrator command prompt, you can do this by pressing WindowsKey + X and selecting Command Prompt (Admin). Then enter npm install --global windows-build-tools, which will install Python 2.7 and a C++ compiler for you. This may take a while.
 
-# Installing discord.js
+## Installing discord.js
 
 Now we can finally install discord.js! It's time to open up your first command prompt again.
 
@@ -52,7 +52,7 @@ You may see UNMET PEER DEP errors, ignore them. You can ensure discord.js is ins
 
 ** IMPORTANT ** Open the config.JSON file and put in your Bot "Token" you saved away. this will link the scripts in your Desktop folder to the Discord Bot you created earlier.
 
-# To run the RadioBot from your home PC/server/NAS:
+## To run the RadioBot from your home PC/server/NAS:
 
 Open CMD Prompt and navigate to the desktop folder again (cd Users\$username$\Desktop\DiscordBot /or RadioBot) and type: node bot.js
 
