@@ -7,13 +7,13 @@ Discord Streaming Bot with installation instructions
 
 ## How to use:
 
-## Create a Discord Bot:https://discordpy.readthedocs.io/en/rewrite/discord.html
+Create a Discord Bot:https://discordpy.readthedocs.io/en/rewrite/discord.html
 
-## Copy away the Bot "Token" and the Bot "ClientID" for safe keeping.
+Copy away the Bot "Token" and the Bot "ClientID" for safe keeping.
 
-## Create a new folder on the desktop and call it "DiscordBot" (or whatever you want it to be called "RadioBot"?). This is where we will run the Radio from, so make sure all the Git files/folders are copied to this location.
+Create a new folder on the desktop and call it "DiscordBot" (or whatever you want it to be called "RadioBot"?). This is where we will    run the Radio from, so make sure all the Git files/folders are copied to this location.
 
-## Open CMD Prompt: navigate to the folder you just created (cd Users\$username$\Desktop\DiscordBot /or RadioBot)
+Open CMD Prompt: navigate to the folder you just created (cd Users\$username$\Desktop\DiscordBot /or RadioBot)
 
 Install all npm prerequisites to that folder path following this guide below:
 
