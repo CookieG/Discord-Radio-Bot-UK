@@ -15,7 +15,7 @@ Discord Streaming Bot with installation instructions
 
 > Open CMD Prompt: navigate to the folder you just created (cd Users\$username$\Desktop\DiscordBot /or RadioBot)
 
-**Install all npm prerequisites to that folder path below following this guide:
+**Install all npm prerequisites to that folder path following this guide below:
 
 
 
