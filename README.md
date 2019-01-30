@@ -1,8 +1,6 @@
 # Discord-Radio-Bot-UK
 Discord Streaming Bot with installation instructions
 
-## EDIT - .bat file to run DiscordBot via node automatically**
-
 ## Online Hosting - please see www.glitch.com and use guide: https://anidiots.guide/other-guides/hosting-on-glitch (saving you from leaving your PC on forever!)
 
 ## How to use:
