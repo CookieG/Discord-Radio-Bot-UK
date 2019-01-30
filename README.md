@@ -50,7 +50,7 @@ You may see UNMET PEER DEP errors, ignore them. You can ensure discord.js is ins
 
 ** IMPORTANT ** Open the config.JSON file and put in your Bot "Token" you saved away. this will link the scripts in your Desktop folder to the Discord Bot you created earlier.
 
-## To run the RadioBot from your home PC/server/NAS:
+## To run the RadioBot from your home PC/Server/NAS:
 
 Open CMD Prompt and navigate to the desktop folder again (cd Users\$username$\Desktop\DiscordBot /or RadioBot) and type: node bot.js
 
