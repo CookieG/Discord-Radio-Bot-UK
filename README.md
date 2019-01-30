@@ -1,11 +1,11 @@
 # Discord-Radio-Bot-UK
 Discord Streaming Bot with installation instructions
 
-## Online Hosting - please see www.glitch.com and use guide: https://anidiots.guide/other-guides/hosting-on-glitch (saving you from leaving your PC on forever!)
+## Online Hosting - please see www.glitch.com and use this guide: https://anidiots.guide/other-guides/hosting-on-glitch (saving you from leaving your PC on forever!)
 
 ## How to use:
 
-Create a Discord Bot:https://discordpy.readthedocs.io/en/rewrite/discord.html
+Create a Discord Bot: https://discordpy.readthedocs.io/en/rewrite/discord.html
 
 Copy away the Bot "Token" and the Bot "ClientID" for safe keeping.
 
