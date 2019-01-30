@@ -48,7 +48,7 @@ If you want your bot to be able to play and receive audio in voice channels, als
 
 You may see UNMET PEER DEP errors, ignore them. You can ensure discord.js is installed by running npm list discord.js
 
-** IMPORTANT ** Open the config.JSON file and put in your Bot "Token" you saved away. this will link the scripts in your Desktop folder to the Discord Bot you created earlier.
+** IMPORTANT ** Open the config.JSON file and put in your Bot "Token" you saved away.  Doing this, links the scripts (.js) in your desktop folder (or wherever you stored the files) to the Discord Bot you created earlier.
 
 ## To run the RadioBot from your home PC/Server/NAS:
 
